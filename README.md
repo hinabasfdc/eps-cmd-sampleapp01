@@ -1,1 +1,1 @@
-# einsteinvision-sampleapp03
+# eps-cmd-sampleapp01
